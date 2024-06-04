@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<collection>
+	<vehicles>
+		<vehicle key="1" id="50510" name="kirill" x="1" y="2.0" creationDate="2024-05-02T11:54:55.318046+03:00[Europe/Moscow]" enginePower="1.0" numberOfWheels="2" type="PLANE" fuelConsumption="12"/>
+		<vehicle key="3" id="68191" name="sergey" x="1" y="2.0" creationDate="2024-05-02T11:55:32.353545+03:00[Europe/Moscow]" enginePower="1.0" numberOfWheels="1" type="PLANE" fuelConsumption="22"/>
+	</vehicles>
+</collection>
